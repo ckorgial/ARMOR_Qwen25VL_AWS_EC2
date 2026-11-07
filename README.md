@@ -1,6 +1,6 @@
-# ARMOR — Qwen2.5-VL / vLLM / AWS EC2 research rebuild
+# ARMOR — Qwen2.5-VL / vLLM / AWS EC2
 
-A runnable **research reimplementation**, based on [ARMOR](https://ieeexplore.ieee.org/document/11460595/) and the accompanying uploaded prototype. Not the authors' verified reference reproduction. Research and authorized robustness testing only.
+A runnable **research reimplementation**, based on [ARMOR](https://ieeexplore.ieee.org/document/11460595/)
 
 ## What this code implements
 
